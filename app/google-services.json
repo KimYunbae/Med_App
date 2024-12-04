@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "615341068363",
+    "project_id": "medicinenotify",
+    "storage_bucket": "medicinenotify.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:615341068363:android:38cdee9b4dfcd79cbc7dce",
+        "android_client_info": {
+          "package_name": "com.android.medicinenotification"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDR0te_IMjZwgrsxAvCS5Fe-BquOabNwhY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
